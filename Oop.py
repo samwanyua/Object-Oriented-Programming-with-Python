@@ -44,4 +44,5 @@ print(Item.all)
 for instance in Item.all:
     print(instance.name)
 
-
+# CSV - Comma separated values (allow data to be saved in table structured format )
+    
